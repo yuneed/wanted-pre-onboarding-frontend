@@ -1,0 +1,28 @@
+* {
+  box-sizing: border-box;
+}
+
+.navbar {
+  font-size: 2rem;
+  padding: 1rem;
+  background-color: gold;
+  color: deepskyblue;
+}
+
+.navbar-logo {
+  margin-right: 0.8rem;
+}
+
+.navbar-count {
+  display: inline-block;
+  text-align: center;
+  font-size: 1.8rem;
+  width: 2.5rem;
+  height: 2.5rem;
+  line-height: 2.5rem;
+  margin-left: 0.3rem;
+  margin-right: 0.5rem;
+  border-radius: 50%;
+  background-color: deeppink;
+  color: white;
+}
