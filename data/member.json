@@ -1,0 +1,14 @@
+{
+    "apple":{
+        "email":"apple@apple.com",
+        "password":"1111"
+    },
+    "banana":{
+        "email":"banana@banana.com",
+        "password":"2222"
+    },
+    "orange":{
+        "email":"orange@orange.com",
+        "password":"3333"
+    }
+}
